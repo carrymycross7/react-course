@@ -1,5 +1,11 @@
 function hello () {
-  print("hello world")
+  console.log("hello world")
 }
 
-hello(); 
+hello();
+
+function extra () {
+  console.log("i am writing this to have extra code in a branch for testing");
+}
+
+extra();
